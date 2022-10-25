@@ -1,3 +1,6 @@
 [submodule "udacity-project-3"]
 	path = udacity-project-3
 	url = https://github.com/CFCIfe/udacity-project-3
+[submodule "udapeople-microsvc"]
+	path = udapeople-microsvc
+	url = https://github.com/CFCIfe/udapeople-microsvc
