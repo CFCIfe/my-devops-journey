@@ -4,3 +4,6 @@
 [submodule "udapeople-microsvc"]
 	path = udapeople-microsvc
 	url = https://github.com/CFCIfe/udapeople-microsvc
+[submodule "ci-cd-final-infra"]
+	path = ci-cd-final-infra
+	url = https://github.com/CFCIfe/ci-cd-final-infra
