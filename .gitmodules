@@ -7,3 +7,6 @@
 [submodule "ci-cd-final-infra"]
 	path = ci-cd-final-infra
 	url = https://github.com/CFCIfe/ci-cd-final-infra
+[submodule "Udagram-Cloud_Formation"]
+	path = Udagram-Cloud_Formation
+	url = https://github.com/CFCIfe/Udagram-Cloud_Formation
