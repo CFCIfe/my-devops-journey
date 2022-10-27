@@ -13,3 +13,6 @@
 [submodule "Static-Web-app-ARM"]
 	path = Static-Web-app-ARM
 	url = https://github.com/CFCIfe/Static-Web-app-ARM
+[submodule "start-stop-vm"]
+	path = start-stop-vm
+	url = https://github.com/CFCIfe/start-stop-vm
