@@ -10,3 +10,6 @@
 [submodule "Udagram-Cloud_Formation"]
 	path = Udagram-Cloud_Formation
 	url = https://github.com/CFCIfe/Udagram-Cloud_Formation
+[submodule "Static-Web-app-ARM"]
+	path = Static-Web-app-ARM
+	url = https://github.com/CFCIfe/Static-Web-app-ARM
