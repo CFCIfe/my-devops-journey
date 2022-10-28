@@ -1,6 +1,6 @@
 # my-devops-journey
 A timeline of projects done during the course of my DevOps Journey
-
+---
 # File Structure
 ```
 peter@peter-HP-EliteBook-820-G3:~/my-devops-journey$ tree -l
@@ -63,3 +63,5 @@ peter@peter-HP-EliteBook-820-G3:~/my-devops-journey$ tree -l
 ├── Udagram-Cloud_Formation
 └── udapeople-microsvc
 ```
+---
+# Details of each folder
