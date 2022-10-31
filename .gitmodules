@@ -16,3 +16,6 @@
 [submodule "start-stop-vm"]
 	path = start-stop-vm
 	url = https://github.com/CFCIfe/start-stop-vm
+[submodule "LAPP-PROJECT"]
+	path = LAPP-PROJECT
+	url = https://github.com/CFCIfe/LAPP-PROJECT
